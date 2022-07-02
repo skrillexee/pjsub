@@ -33,15 +33,15 @@
       },
       {
         "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
       },
       {
         "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
       },
       {
         "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
       }
     ],
 
@@ -64,7 +64,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
         "text": "Panda Helper is the best unofficial app store released, offering tons of modified apps and games, emulators, tweaks, and lots more. Millions of people are using it worldwide as their new app store – its free, and theres no need to jailbreak. Even better, it isnt restricted to iOS devices – Android users get to enjoy it too..",
         "isNative": "true"
       },
@@ -75,22 +75,8 @@
         "left": "5",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
-        "text": "Panda Helper is the best unofficial app store released, offering tons of modified apps and games, emulators, tweaks, and lots more. Millions of people are using it worldwide as their new app store – it’s free, and there’s no need to jailbreak. Even better, it isn’t restricted to iOS devices – Android users get to enjoy it too.
-Panda Helper Features:
-
-It offers all users plenty of features, including all this content:
-
-    iOS Apps – thousands of official apps and games for free
-    Exclusive Apps – Cydia apps, screen recorders, streaming apps, game emulators, and more
-    Tweaks – apps and games tweaked with new features and functions
-
-On top of all that:
-
-    Its safe to use – no jailbreak needed, Android users don’t need to root their devices, and your warranty is not affected
-    Its an alternative to Cydia – for those jailbreakers missing their unofficial content
-    It has thousands of unofficial apps and games – tweaked and modified content with new features and some Cydia tweaks that dont need a jailbreak to work
-    It has great support – 24/7 support via Twitter and Facebook – regardless of your time zone, help is always on hand",
+        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
+        "text": "Panda Helper is the best unofficial app store released, offering tons of modified apps and games, emulators, tweaks, and lots more. Millions of people are using it worldwide as their new app store – its free, and there’s no need to jailbreak. Even better, it isnt restricted to iOS devices – Android users get to enjoy it too.Its safe to use – no jailbreak needed, Android users don’t need to root their devices, and your warranty is not affected Its an alternative to Cydia – for those jailbreakers missing their unofficial content It has thousands of unofficial apps and games – tweaked and modified content with new features and some Cydia tweaks that dont need a jailbreak to work It has great support – 24/7 support via Twitter and Facebook – regardless of your time zone, help is always on hand",
         "isNative": "true"
       },
       {
@@ -99,9 +85,9 @@ On top of all that:
         "gravity": "left",
         "left": "5",
         "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
+        "isLink": "true","link_title": "Open The Game","setLink": "",
+        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
+        "text": "If you get an Unable to Verify App message, follow this:.",
         "isNative": "false"
       }
     ]
