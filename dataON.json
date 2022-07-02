@@ -20,27 +20,27 @@
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
+        "title": "Panda helper 1 ",
         "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
       },
       {
-        "title": "The Old 2",
+        "title": "Panda helper 2",
         "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
+        "title": "Panda helper 3 ",
         "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
       },
       {
-        "title": "Dead Space Android",
+        "title": "Panda helper 4",
         "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
       },
       {
-        "title": "Bloody Mary",
+        "title": "Panda helper 5",
         "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
       },
       {
-        "title": "Twisted Lands: Shadow Town",
+        "title": "Panda helper 6",
         "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
       }
     ],
@@ -54,7 +54,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "Panda helper",
         "isNative": "false"
       },
       {
@@ -88,7 +88,7 @@
         "isLink": "true","link_title": "Open The Game","setLink": "",
         "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
         "text": "If you get an Unable to Verify App message, follow this:.",
-        "isNative": "false"
+        "isNative": "true"
       }
     ]
   }
