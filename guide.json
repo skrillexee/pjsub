@@ -27,77 +27,691 @@
       },
 
     "items": [
+
+      
+
       {
-        "title": "Panda helper 1 ",
-        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470577.jpg"
+
       },
-      {
-        "title": "Panda helper 2",
-        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
+
+       {
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470593.jpg"
+
       },
-      {
-        "title": "Panda helper 3 ",
-        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
+
+        {
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470608.jpg"
+
       },
+
       {
-        "title": "Panda helper 4",
-        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470624.jpg"
+
       },
+
       {
-        "title": "Panda helper 5",
-        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470640.jpg"
+
       },
-      {
-        "title": "Panda helper 6",
-        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
+
+       {
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470655.jpg"
+
+         },
+
+       {
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470671.jpg"
+
+         },
+
+       {
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470686.jpg"
+
+         },
+
+       {
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470702.jpg"
+
+         },
+
+       {
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470718.jpg"
+
+         },
+
+       {
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470733.jpg"
+
+         },
+
+       {
+
+        "title": "",
+
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470749.jpg"
+
       }
+
     ],
 
+
+
     "content1": [
+
       {
+
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
+
+        "color": "#20c4f4","style": "blood",
+
         "gravity": "left",
+
         "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
+
+        "text_size": "50",
+
+        "isLink": "true","link_title": "","setLink": "",
+
         "image_link": "",
-        "text": "Panda helper",
-        "isNative": "false"
+
+        "text": "Intro",
+
+        "isNative": "true"
+
       },
+
       {
+
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
+
+        "color": "#20c4f4","style": "blood",
+
         "gravity": "left",
+
         "left": "5",
+
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
-        "text": "Panda Helper is the best unofficial app store released, offering tons of modified apps and games, emulators, tweaks, and lots more. Millions of people are using it worldwide as their new app store – its free, and theres no need to jailbreak. Even better, it isnt restricted to iOS devices – Android users get to enjoy it too..",
+
+        "isLink": "true","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470593.jpg",
+
+        "text": " Some oveain boxes in the closet of your house, or you can find some outside in the neighbor's yard.",
+
         "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
-        "text": "Panda Helper is the best unofficial app store released, offering tons of modified apps and games, emulators, tweaks, and lots more. Millions of people are using it worldwide as their new app store – its free, and theres no need to jailbreak. Even better, it isnt restricted to iOS devices – Android users get to enjoy it too..",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "",
-        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
-        "text": "If you get an Unable to Verify App message, follow this:.",
-        "isNative": "true"
+
       }
+
+    ],
+
+    
+
+    "content2": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "",
+
+        "text": " Tips ",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470608.jpg",
+
+        "text": " Break a window far across. If you step down onto the track, you should see a hole just in front of the window that you can jump into.",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+    
+
+    "content3": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470624.jpg",
+
+        "text": "",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click to enter ","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470640.jpg",
+
+        "text": "Jumping ate, jump up onto the wood railing, then turn and jump onto the lamp on the opposite wall.",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+    "content4": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "",
+
+        "text": "Tips",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click to watch","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470655.jpg",
+
+        "text": "From tract with the painting of the apple at the top near the ceiling to turn it sideways (just press E instead of holding it to pick up the painting), which opens a ramp back on the other side of the gate.",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+    "content5": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "",
+
+        "text": "Tips",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click here","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470671.jpg",
+
+        "text": "Run up rough the grating into the box on the right side, holding the lever into the open position.",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+    "content6": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470686.jpg",
+
+        "text": "Tips",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click to watch","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470702.jpg",
+
+        "text": " Run back into ths it is too hot to hold. ",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+    "content7": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470718.jpg",
+
+        "text": "Tips",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click to watch ","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470733.jpg",
+
+        "text": "We'l hao pick up a metal object.",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+"content8": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470764.jpg",
+
+        "text": "tips",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click to watch ","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470780.jpg",
+
+        "text": " Now, heowbar with the magnet in your current inventory slot.",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+     "content9": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470796.jpg",
+
+        "text": "Tips",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click to watch","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470811.jpg",
+
+        "text": "Go back dobathroom. Turn on the shower and hold the glowing hot crowbar under the stream of water. After a few seconds, it will cool down so you can hold and use the tool (finally)..",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+    "content10": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470827.jpg",
+
+        "text": "tips",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click to watch","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470842.jpg",
+
+        "text": "Pick up the ts holding the boards in place that restrict access to the basement.",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+    "content11": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470858.jpg",
+
+        "text": "Tips ",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click to watch","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470874.jpg",
+
+        "text": "Although the ise, walk forward out onto the track and into the area outside the house.",
+
+        "isNative": "true"
+
+      }
+
+    ],
+
+    "content12": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470889.jpg",
+
+        "text": "outro",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "click to watch ","setLink": "",
+
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470920.jpg",
+
+        "text": "Run down the track until you re-enter the h.",
+
+        "isNative": "true"
+
+      }
+
     ]
+
   }
+
 }
+
+
