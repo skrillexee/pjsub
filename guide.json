@@ -2,8 +2,8 @@
   "GuideData": {
     "AdsController": 
       {
-        "BannerAd": "ironsource",
-		"InterstitialAd": "Ironsource",
+        "BannerAd": "max",
+		"InterstitialAd": "ironsource",
         "NativeAd": "max",
 		
 		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
