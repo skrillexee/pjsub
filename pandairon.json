@@ -1,0 +1,181 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "ironsource",
+		"InterstitialAd": "ironsource",
+        "NativeAd": "max",
+		
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		"maxBanner": "6db1491f2e21970c",
+		"maxInterstitial": "812b82d9e0c7cb7f",
+		"maxNative": "3e1fdfde2ae3c932",
+		
+		"ironsource_appKey": "157e15ffd",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+
+      {
+
+        "title": "Panda helper 1 ",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
+
+      },
+
+      {
+
+        "title": "Panda helper 2",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
+
+      },
+
+      {
+
+        "title": "Panda helper 3 ",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
+
+      },
+
+      {
+
+        "title": "Panda helper 4",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
+
+      },
+
+      {
+
+        "title": "Panda helper 5",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
+
+      },
+
+      {
+
+        "title": "Panda helper 6",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
+
+      }
+
+    ],
+
+
+
+    "content1": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "",
+
+        "text": "Panda helper",
+
+        "isNative": "false"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
+
+        "text": "Panda Helper is the best unofficial app store released, offering tons of modified apps and games, emulators, tweaks, and lots more. Millions of people are using it worldwide as their new app store – its free, and theres no need to jailbreak. Even better, it isnt restricted to iOS devices – Android users get to enjoy it too..",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
+
+        "text": "Panda Helper is the best unofficial app store released, offering tons of modified apps and games, emulators, tweaks, and lots more. Millions of people are using it worldwide as their new app store – its free, and theres no need to jailbreak. Even better, it isnt restricted to iOS devices – Android users get to enjoy it too..",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "25",
+
+        "isLink": "true","link_title": "Open The Game","setLink": "",
+
+        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
+
+        "text": "If you get an Unable to Verify App message, follow this:.",
+
+        "isNative": "true"
+
+      }
+
+    ]
+
+  }
+
+}
+
+
+
+
