@@ -8,12 +8,12 @@
 		
 		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "NativeAdmob": "ca-app-pub-4961591503421053/1134472671",
 		"maxBanner": "6db1491f2e21970c",
 		"maxInterstitial": "812b82d9e0c7cb7f",
 		"maxNative": "3e1fdfde2ae3c932",
 		
-		"ironsource_appKey": "157e15ffd",
+		"ironsource_appKey": "158a26b55",
 		
 		"unity_game_id": "3883855",
 		"unity_test": true,
