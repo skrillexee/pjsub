@@ -2,7 +2,7 @@
   "GuideData": {
     "AdsController": 
       {
-        "BannerAd": "ironsource",
+        "BannerAd": "Admob",
 		"InterstitialAd": "ironsource",
         "NativeAd": "Admob",
 		
