@@ -2,9 +2,9 @@
   "GuideData": {
     "AdsController": 
       {
-        "BannerAd": "ironsource",
+        "BannerAd": "Admob",
 		"InterstitialAd": "ironsource",
-        "NativeAd": "max",
+        "NativeAd": "Admob",
 		
 		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -29,7 +29,7 @@
     "items": [
       {
         "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+        "image": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_1092/MTc0NDU4MDQ1Mzk1NTc2MTY4/roblox-adopt-me-beginners-guide.webp",
         "color": "#000000",
         "text_size": "25",
         "isLink": true,
