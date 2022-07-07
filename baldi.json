@@ -26,86 +26,152 @@
 		
       },
 
-    "items": [
+     "items": [
+
       {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "color": "#000000",
-        "text_size": "25",
-        "isLink": true,
-		"link_title": "Get Coins",
-		"setLink": "https://www.google.com",
-        "image_link": "https://www.google.com",
-        "text": "sdsdasdsdasd ssa dadas dasd",
-        "isNative": false,
-		"background": "#00FF00"
+
+        "title": "baldi helper 1 ",
+
+        "image": "https://gamefaqs.gamespot.com/a/faqs/46/76346-1.png"
+
       },
+
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
+
+        "title": "Panda helper 2",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
+
       },
+
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
+
+        "title": "Panda helper 3 ",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper.png"
+
       },
+
       {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
+
+        "title": "Panda helper 4",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
+
       },
+
       {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
+
+        "title": "Panda helper 5",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
+
       },
+
       {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
+
+        "title": "Panda helper 6",
+
+        "image": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png"
+
       }
+
+    ],
+
+
+
+    "content1": [
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "10",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "",
+
+        "text": "Panda helper",
+
+        "isNative": "false"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "20",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
+
+        "text": "Panda Helper is the best unofficial app store released, offering tons of modified apps and games, emulators, tweaks, and lots more. Millions of people are using it worldwide as their new app store – its free, and theres no need to jailbreak. Even better, it isnt restricted to iOS devices – Android users get to enjoy it too..",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "25",
+
+        "isLink": "false","link_title": "","setLink": "",
+
+        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
+
+        "text": "Panda Helper is the best unofficial app store released, offering tons of modified apps and games, emulators, tweaks, and lots more. Millions of people are using it worldwide as their new app store – its free, and theres no need to jailbreak. Even better, it isnt restricted to iOS devices – Android users get to enjoy it too..",
+
+        "isNative": "true"
+
+      },
+
+      {
+
+        "ordered": "image_text",
+
+        "color": "#FFFFFF","style": "blood",
+
+        "gravity": "left",
+
+        "left": "5",
+
+        "text_size": "25",
+
+        "isLink": "true","link_title": "Open The Game","setLink": "",
+
+        "image_link": "https://www.techfollows.com/wp-content/uploads/2020/12/Panda-Helper-2.png",
+
+        "text": "If you get an Unable to Verify App message, follow this:.",
+
+        "isNative": "true"
+
+      }
+
     ]
 
   }
+
 }
