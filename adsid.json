@@ -1,0 +1,20 @@
+﻿{
+"message": " ",
+"status": "1",
+"details_content": "This option is still in development stage.",
+"live_visibility": "ok",
+"player_type": "fballtimes",
+"launch_url": "ok",
+"option_visibility": "ok",
+"series_visibility": "IPL 18",
+"advertisement_image_url": "all",
+"banner_ads": "fb",
+"inter_ads": "both",
+"admob_app_id":"ca-app-pub-3940256099942544~3347511713",
+"gbanner_id": "ca-app-pub-3940256099942544/6300978111",
+"ginters_id": "ca-app-pub-3940256099942544/1033173712",
+"gnative_id": "ca-app-pub-3940256099942544~3347511713 ",
+"fbbanner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"fbinters_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+
+}
