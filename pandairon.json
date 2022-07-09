@@ -2,9 +2,9 @@
   "GuideData": {
     "AdsController": 
       {
-        "BannerAd": "Admob",
+        "BannerAd": "",
 		"InterstitialAd": "ironsource",
-        "NativeAd": "Admob",
+        "NativeAd": "",
 		
 		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -13,7 +13,7 @@
 		"maxInterstitial": "812b82d9e0c7cb7f",
 		"maxNative": "3e1fdfde2ae3c932",
 		
-		"ironsource_appKey": "158a26b55",
+		"ironsource_appKey": "1594d3715",
 		
 		"unity_game_id": "3883855",
 		"unity_test": true,
