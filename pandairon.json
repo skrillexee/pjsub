@@ -2,13 +2,13 @@
   "GuideData": {
     "AdsController": 
       {
-        "BannerAd": "",
+        "BannerAd": "Admob",
 		"InterstitialAd": "ironsource",
-        "NativeAd": "",
+        "NativeAd": "Admob",
 		
-		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+		"BannerAdmob": "ca-app-pub-9054737093048130/5130310004",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-4961591503421053/1134472671",
+        "NativeAdmob": "ca-app-pub-9054737093048130/9538396673",
 		"maxBanner": "6db1491f2e21970c",
 		"maxInterstitial": "812b82d9e0c7cb7f",
 		"maxNative": "3e1fdfde2ae3c932",
